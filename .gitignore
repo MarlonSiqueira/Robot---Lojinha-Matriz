@@ -1,1 +1,7 @@
 venv
+Results
+
+#Comandos para rodar os testes:
+# -d é para criar uma pasta
+# -i é para rodar os testes com a Tags escolhida
+# robot -d Results -i AtualizarEstoque  suites/atualizar_estoque_produto
